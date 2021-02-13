@@ -2,4 +2,4 @@
 
 ## Table of Contents :
 
-* [Read 01](https://gamer-planet.github.io/reading-notes-201/Read:%2001)
+* [Read 01](https://ibrahimaljabr.github.io/Reading-notes-301/Read:01)
