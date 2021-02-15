@@ -42,5 +42,5 @@
 |Day                  |Class|
 |---------------      |-----| 
 |[Read 01](https://ibrahimaljabr.github.io/Reading-notes-301/Read:01)|Responsive Web Design|
-|[Read 02](https://ibrahimaljabr.github.io/Reading-notes-301/Read:02)|PAIR PROGRAMMING|
+|[Read 02](https://ibrahimaljabr.github.io/Reading-notes-301/Read:02)|PAIR PROGRAMMING & jQuery|
 
