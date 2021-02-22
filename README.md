@@ -47,4 +47,5 @@
 |[Read 04](https://ibrahimaljabr.github.io/Reading-notes-301/Read:04)|CSS Grid Garden|
 |[Read 05](https://ibrahimaljabr.github.io/Reading-notes-301/Read:05)|HEROKU|
 |[Read 06](https://ibrahimaljabr.github.io/Reading-notes-301/Read:06)|Introduction to NODE.JS|
+|[Read 07](https://ibrahimaljabr.github.io/Reading-notes-301/Read:07)|REST|
 
