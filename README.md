@@ -48,5 +48,6 @@
 |[Read 05](https://ibrahimaljabr.github.io/Reading-notes-301/Read:05)|HEROKU|
 |[Read 06](https://ibrahimaljabr.github.io/Reading-notes-301/Read:06)|Introduction to NODE.JS|
 |[Read 07](https://ibrahimaljabr.github.io/Reading-notes-301/Read:07)|REST|
-|[Read 08](https://ibrahimaljabr.github.io/Reading-notes-301/Read:07)|SQL|
+|[Read 08](https://ibrahimaljabr.github.io/Reading-notes-301/Read:08)|SQL|
+|[Read 09](https://ibrahimaljabr.github.io/Reading-notes-301/Read:09)|FUNCTIONAL PROGRAMMING|
 
