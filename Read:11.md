@@ -3,7 +3,7 @@
 # EJS
  EJS is a simple templating language that lets you generate HTML markup with plain JavaScript. 
  
- ## Why pick EJS 
+ ##  Why pick EJS 
  
  - Fast development time.
  - Simple syntax.
