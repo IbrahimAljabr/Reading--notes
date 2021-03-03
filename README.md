@@ -54,5 +54,7 @@
 |[Read 11](https://ibrahimaljabr.github.io/Reading-notes-301/Read:11)|EJS|
 |[Read 12](https://ibrahimaljabr.github.io/Reading-notes-301/Read:12)|EJS PARTIALS|
 |[Read 13](https://ibrahimaljabr.github.io/Reading-notes-301/Read:13)|SENDING FORM DATA|
+|[Read 14a](https://ibrahimaljabr.github.io/Reading-notes-301/Read:14a)|DATABASE NORMALIZATION|
+|[Read 14b](https://ibrahimaljabr.github.io/Reading-notes-301/Read:14b)|Project Ideas & APIs|
 
 
