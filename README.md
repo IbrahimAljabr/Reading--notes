@@ -41,22 +41,22 @@
 
 |Day                  |Class|
 |---------------      |-----| 
-|[Read 01](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:01)|Responsive Web Design|
-|[Read 02](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:02)|PAIR PROGRAMMING & jQuery|
-|[Read 03](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:03)|MUSTACHE and FLEXBOX|
-|[Read 04](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:04)|CSS Grid Garden|
-|[Read 05](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:05)|HEROKU|
-|[Read 06](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:06)|Introduction to NODE.JS|
-|[Read 07](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:07)|REST|
-|[Read 08](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:08)|SQL|
-|[Read 09](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:09)|FUNCTIONAL PROGRAMMING|
-|[Read 10](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:10)|THE CALL STACK|
-|[Read 11](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:11)|EJS|
-|[Read 12](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:12)|EJS PARTIALS|
-|[Read 13](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:13)|SENDING FORM DATA|
-|[Read 14a](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:14a)|DATABASE NORMALIZATION|
-|[Read 14b](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:14b)|Project Ideas & APIs|
-|[Read 15](https://ibrahimaljabr.github.io/Reading-notes-301/reading-note-301/Read:15)|Diversity & Inclusion in the Tech Industry|
+|[Read 01](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:01)|Responsive Web Design|
+|[Read 02](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:02)|PAIR PROGRAMMING & jQuery|
+|[Read 03](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:03)|MUSTACHE and FLEXBOX|
+|[Read 04](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:04)|CSS Grid Garden|
+|[Read 05](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:05)|HEROKU|
+|[Read 06](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:06)|Introduction to NODE.JS|
+|[Read 07](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:07)|REST|
+|[Read 08](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:08)|SQL|
+|[Read 09](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:09)|FUNCTIONAL PROGRAMMING|
+|[Read 10](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:10)|THE CALL STACK|
+|[Read 11](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:11)|EJS|
+|[Read 12](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:12)|EJS PARTIALS|
+|[Read 13](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:13)|SENDING FORM DATA|
+|[Read 14a](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:14a)|DATABASE NORMALIZATION|
+|[Read 14b](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:14b)|Project Ideas & APIs|
+|[Read 15](https://ibrahimaljabr.github.io/Reading--notes/reading-note-301/Read:15)|Diversity & Inclusion in the Tech Industry|
 
 
 
