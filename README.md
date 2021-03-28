@@ -66,3 +66,4 @@
 |Day                  |Class|
 |---------------      |-----| 
 |[Read 1](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:1)|Node Ecosystem, TDD, CI/CD|
+|[Read 2](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:2)|Express|
