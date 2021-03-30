@@ -68,3 +68,4 @@
 |[Read 1](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:1)|Node Ecosystem, TDD, CI/CD|
 |[Read 2](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:2)|Express|
 |[Read 3](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:3)|Express REST API|
+|[Read 4](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:4)|Data Modeling|
