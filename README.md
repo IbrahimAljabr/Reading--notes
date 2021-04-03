@@ -70,3 +70,4 @@
 |[Read 3](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:3)|Express REST API|
 |[Read 4](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:4)|Data Modeling|
 |[Read 5](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:5)|Linked Lists|
+|[Read 6](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:6)|Authentication|
