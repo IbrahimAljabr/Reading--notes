@@ -72,3 +72,4 @@
 |[Read 5](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:5)|Linked Lists|
 |[Read 6](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:6)|Authentication|
 |[Read 7](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:7)|Bearer Authorization|
+|[Read 8](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:8)|Access Control (ACL)|
