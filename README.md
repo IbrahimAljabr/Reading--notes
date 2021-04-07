@@ -74,3 +74,4 @@
 |[Read 7](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:7)|Bearer Authorization|
 |[Read 8](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:8)|Access Control (ACL)|
 |[Read 9](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:9)|OAuth|
+|[Read 11](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:11)|Event Driven Applications|
