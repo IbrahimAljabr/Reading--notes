@@ -76,3 +76,4 @@
 |[Read 9](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:9)|OAuth|
 |[Read 10](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:11.1)|Stacks and Queues|
 |[Read 11](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:11)|Event Driven Applications|
+|[Read 12](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:12)|Socket.io|
