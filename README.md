@@ -78,3 +78,4 @@
 |[Read 11](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:11)|Event Driven Applications|
 |[Read 12](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:12)|Socket.io|
 |[Read 13](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:13)|Message Queues|
+|[Read 14](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:14)|Trees|
