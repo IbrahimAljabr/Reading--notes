@@ -80,3 +80,4 @@
 |[Read 13](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:13)|Message Queues|
 |[Read 14](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:14)|Trees|
 |[Read 16](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:16)|AWS: Cloud Servers|
+|[Read 17](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:17)|AWS: S3 and Lambda|
