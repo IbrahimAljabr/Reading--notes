@@ -83,3 +83,4 @@
 |[Read 17](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:17)|AWS: S3 and Lambda|
 |[Read 18](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:18)|AWS: API, Dynamo and Lambda|
 |[Read 19](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:19)|AWS: Events|
+|[Read 27](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:27)|Props and State|
