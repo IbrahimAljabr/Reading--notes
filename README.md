@@ -84,3 +84,4 @@
 |[Read 18](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:18)|AWS: API, Dynamo and Lambda|
 |[Read 19](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:19)|AWS: Events|
 |[Read 27](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:27)|Props and State|
+|[Read 28](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:28)|Component Composition|
