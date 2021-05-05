@@ -85,3 +85,4 @@
 |[Read 19](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:19)|AWS: Events|
 |[Read 27](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:27)|Props and State|
 |[Read 28](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:28)|Component Composition|
+|[Read 29](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:29)|React Routing|
