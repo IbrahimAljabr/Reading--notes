@@ -20,3 +20,13 @@ Hashtables are a data structure that utilize key value pairs.
 ### Hashing
 Basically, a hash code turns a key into an integer. 
 
+## Basics of Hash Tables 
+Hashing is a technique that is used to uniquely identify a specific object from a group of similar objects.
+
+### Hash function
+A hash function is any function that can be used to map a data set of an arbitrary size to a data set of a fixed siz
+
+### Hash table
+A hash table is a data structure that is used to store keys/value pairs. It uses a hash function to compute an index into an array in which an element will be inserted or searched.
+
+
