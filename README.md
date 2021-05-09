@@ -87,3 +87,4 @@
 |[Read 28](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:28)|Component Composition|
 |[Read 29](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:29)|React Routing|
 |[Read 30](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:30)|Hash Tables|
+|[Read 31](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:31)|Hooks API|
