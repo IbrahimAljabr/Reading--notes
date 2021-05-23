@@ -92,3 +92,4 @@
 |[Read 33](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:33)|Context API|
 |[Read 34](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:34)|React Login and Auth|
 |[Read 35](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:35)|Graphs|
+|[Read 36](https://ibrahimaljabr.github.io/Reading--notes/reading-note-401/Read:36)|Application State with Redux|
